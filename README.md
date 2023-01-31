@@ -1,2 +1,2 @@
-# minitalk_ft-
+# minitalk
 Create a communication between terminals
