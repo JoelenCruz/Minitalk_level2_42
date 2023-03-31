@@ -15,3 +15,5 @@ Create a communication between terminals
 The purpose of this project is to code a small data exchange program
 using UNIX signals.
 
+# Results
+![image](https://github.com/JoelenCruz/minitalk_42/blob/main/results_minitalk.png)
